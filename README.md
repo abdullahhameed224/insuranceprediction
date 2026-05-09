@@ -1,0 +1,1 @@
+This model use the libraries like pandas, seaborn, matplotlib and numpy to show the histograms and co-relation between different columns.Model uses the step of machine learning like EDA, data cleaning, data preprocessing, Training the data and then make predictions.
